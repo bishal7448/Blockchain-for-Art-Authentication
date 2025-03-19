@@ -23,5 +23,8 @@ The vision of this project is to create a secure and trustworthy system for arti
 - **Transparency & Security**: The blockchain ensures that all records are publicly verifiable and tamper-proof.
 - **Decentralized Verification**: Eliminates the need for centralized authorities to authenticate art pieces.
 
-This project sets the foundation for a secure and transparent art authentication system powered by blockchain technology.
+## Contract Address:
+0x38bfe7ace6b43dd81ffc1ee1afc2ba37fe421b977ca85b08f239df86d6b6b187
+![image](https://github.com/user-attachments/assets/3ef55fd7-9478-45ca-884a-e6c0281dda16)
+
 
