@@ -1,0 +1,16 @@
+[package]
+name = "nft-art"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x345d11a6cd9cd11956b2789babbb23855c51aa6767134c65a68a4da73ad4aaa3"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
